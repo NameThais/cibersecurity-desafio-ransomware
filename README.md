@@ -30,6 +30,9 @@
 ## ❗ Aviso Legal
 - Este projeto é fictício e deve ser utilizado exclusivamente para fins educativos. A autora não se responsabiliza por qualquer uso indevido ou atividades ilegais relacionadas a este código.
 
+## 👩‍💻 Resultado
+![Resultado](Resultado.png)
+
 ## 📌 Dicas 
 Aqui estão alguns comandos úteis para manipular arquivos e diretórios:
 ```bash
